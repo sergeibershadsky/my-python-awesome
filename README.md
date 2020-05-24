@@ -4,7 +4,7 @@
 
 ### Orgs towatch
 
-* [Econometrica](https://github.com/ecometrica[)
+* [Econometrica](https://github.com/ecometrica)
 
 
 ### Repositories
